@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.exe
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.deps.json
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.runtimeconfig.json
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.runtimeconfig.dev.json
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.dll
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.pdb
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.dll
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.pdb
+C:\Users\User\Desktop\Programming\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.genruntimeconfig.cache
